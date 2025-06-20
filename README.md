@@ -63,3 +63,40 @@ PocketPages is an evolving project with many exciting features planned:
 - **Cloud Synchronization**: Full implementation of Firebase or a custom backend for data backup and sync
 - **Search**: A powerful search functionality to find content across all pages
 - **Reminders & Scheduling**: Integration with the system calendar for reminders
+
+# Team Member Contributions
+## **Team Lead & Core Architecture (Devavrat Verma)**
+- •	Contribution:
+- o	App scaffolding
+- o	MVVM architecture implementation
+- o	Core components (Base classes, utilities)
+- o	Navigation setup
+- o	Code reviews & integration
+## **Data Layer & Local Storage (Shrey Mittal)**
+- •	Contribution:
+- o	Complete Room database
+- o	All DAOs and repositories
+- o	Data encryption implementation
+- o	Local data synchronization logic
+## **Authentication & Sync (Dev Asati)**
+- •	Contribution:
+- o	Complete auth flow
+- o	Sync implementation
+- o	Conflict resolution UI/UX
+## **UI/UX - Core Features (Sidhant Choudhury)**
+- •	Contribution:
+- o	Page hierarchy UI
+- o	Page list with expandable items
+- o	Fully functional rich text editor
+- o	Accessible UI components
+## **UI/UX - Additional Features (Hrishikesh Virupakshi)**
+- •	Contribution:
+- o	Database views (table/list)
+- o	Complete settings UI
+- o	Profile management
+## **Integration & Testing (Shreejit Paul)**
+- •	Contribution:
+- o	Share/export functionality
+- o	Version history
+- o	Testing (unit/integration/UI)
+- o	Test suite implementation
